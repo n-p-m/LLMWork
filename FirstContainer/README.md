@@ -1,4 +1,5 @@
-First Container->
+First Container-> Quantized Llama2 which runs on CPU.
+Goal was to learn how to develop containers for LLM. Need to resolve below issues.
 
 Need to incorporate:
 1. pipenv for piplock
