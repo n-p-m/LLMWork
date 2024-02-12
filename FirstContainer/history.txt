@@ -1,0 +1,61 @@
+    1  ls
+    2  sudo adduser npmDev
+    3  sudo adduser npmdev
+    4  sudo usermod -aG sudo npmdev
+    5  su - npmdev
+    6  code
+    7  su - npmdev
+    8  sudo apt-get remove code
+    9  su - npmdev
+   10  ls
+   11  su - npmdev
+   12  sudo apt remove code
+   13  snap install code
+   14  snap help refresh
+   15  sudo apt remove code
+   16  sudo snap remove code
+   17  su - npmdev
+   18  code .
+   19  ls
+   20  mkdir MSProject
+   21  cd MSProject/
+   22  mkdir test1
+   23  cd test1/
+   24  code .
+   25  python3 -m venv venv
+   26  apt install python3.8-venv
+   27  python --version
+   28  sudo apt install python3.8-venv
+   29  python3
+   30  python3 -m venv venv
+   31  sudo apt install python3.8-venv
+   32  sudo apt update
+   33  python3 --version
+   34  sudo apt install python3-venv
+   35  python3 -m venv venv
+   36  source venv/bin/activate
+   37  pip list
+   38  pip instal -r requirements.txt
+   39  pip install -r requirements.txt
+   40  python3 printingLLMOutput.py 
+   41  pip list
+   42  clear
+   43  pip install -r requirements.txt
+   44  pip freeze
+   45  pip list
+   46  pip install --upgrade pip
+   47  pip install -r requirements.txt
+   48  pip list
+   49  python3 printingLLMOutput.py 
+   50  pip install langchain
+   51  python3 printingLLMOutput.py 
+   52  pip instal pypdf
+   53  pip install pypdf
+   54  python3 printingLLMOutput.py 
+   55  pip install sentence-transformers
+   56  python3 printingLLMOutput.py 
+   57  pip install faiss-cpu
+   58  python3 printingLLMOutput.py 
+   59  pip install ctransformers
+   60  python3 printingLLMOutput.py 
+   61  history > history.txt
