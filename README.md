@@ -1,4 +1,4 @@
-# LLMContainerization
+# LLM Containerization
 
 Developed this repo to keep track of different containerzation techniquest I used my project.
 
