@@ -1,6 +1,6 @@
-# LLMWork
+# LLMContainerization
 
-Developed this repo to keep track of LLM work for my project
+Developed this repo to keep track of different containerzation techniquest I used my project.
 
 First Container-> Quantized Llama2 which runs on CPU. Goal was to learn how to develop containers for LLM. Need to resolve below issues.
 
